@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros2/rcl_logging/rcl_logging_spdlog/include/rcl_logging_spdlog/visibility_control.h

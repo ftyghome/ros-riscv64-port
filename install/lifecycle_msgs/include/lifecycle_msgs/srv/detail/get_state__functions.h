@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/lifecycle_msgs/rosidl_generator_c/lifecycle_msgs/srv/detail/get_state__functions.h

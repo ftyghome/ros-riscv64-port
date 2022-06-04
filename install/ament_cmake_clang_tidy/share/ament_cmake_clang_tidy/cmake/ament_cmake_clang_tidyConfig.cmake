@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/ament_cmake_clang_tidy/ament_cmake_core/ament_cmake_clang_tidyConfig.cmake

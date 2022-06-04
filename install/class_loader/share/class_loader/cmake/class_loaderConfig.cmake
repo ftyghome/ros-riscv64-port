@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/class_loader/ament_cmake_core/class_loaderConfig.cmake

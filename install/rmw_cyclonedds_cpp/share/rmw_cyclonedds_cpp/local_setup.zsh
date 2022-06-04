@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rmw_cyclonedds_cpp/ament_cmake_environment_hooks/local_setup.zsh

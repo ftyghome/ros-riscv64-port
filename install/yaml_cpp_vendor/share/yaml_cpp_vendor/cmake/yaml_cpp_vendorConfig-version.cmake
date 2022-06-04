@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/yaml_cpp_vendor/ament_cmake_core/yaml_cpp_vendorConfig-version.cmake

@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros2/common_interfaces/std_msgs/msg/Float64.msg

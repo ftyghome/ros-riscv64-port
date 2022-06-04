@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/urdf/ament_cmake_core/urdfConfig-version.cmake

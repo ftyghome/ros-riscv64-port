@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/zstd_vendor/ament_cmake_core/zstd_vendorConfig-version.cmake

@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rcl_interfaces/ament_cmake_core/rcl_interfacesConfig-version.cmake

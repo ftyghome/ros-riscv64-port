@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros/pluginlib/pluginlib/cmake/pluginlib_enable_plugin_testing.cmake

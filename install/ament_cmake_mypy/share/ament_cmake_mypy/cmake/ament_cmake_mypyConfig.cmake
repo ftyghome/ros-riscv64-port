@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/ament_cmake_mypy/ament_cmake_core/ament_cmake_mypyConfig.cmake

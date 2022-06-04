@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/console_bridge_vendor/console_bridge_vendor_install/include/console_bridge/console.h

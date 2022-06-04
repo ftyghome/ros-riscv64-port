@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros2/rosidl/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em

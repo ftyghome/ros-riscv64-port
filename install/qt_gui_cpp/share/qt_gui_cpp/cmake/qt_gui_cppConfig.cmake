@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/qt_gui_cpp/ament_cmake_core/qt_gui_cppConfig.cmake

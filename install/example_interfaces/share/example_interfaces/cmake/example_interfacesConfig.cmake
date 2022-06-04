@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/example_interfaces/ament_cmake_core/example_interfacesConfig.cmake

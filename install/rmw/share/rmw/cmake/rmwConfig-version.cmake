@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rmw/ament_cmake_core/rmwConfig-version.cmake

@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/performance_test_fixture/ament_cmake_environment_hooks/local_setup.bash

@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rclpy/ament_cmake_core/rclpyConfig-version.cmake

@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/fastrtps_cmake_module/ament_cmake_core/fastrtps_cmake_moduleConfig-version.cmake

@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rmw_dds_common/rosidl_typesupport_introspection_c/rmw_dds_common/msg/rosidl_typesupport_introspection_c__visibility_control.h

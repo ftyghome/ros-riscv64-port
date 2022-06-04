@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ament/ament_cmake/ament_cmake_gmock/cmake/ament_add_gmock.cmake

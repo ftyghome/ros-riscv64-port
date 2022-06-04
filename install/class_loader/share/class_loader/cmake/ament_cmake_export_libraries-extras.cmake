@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/class_loader/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake

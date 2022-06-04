@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros2/rosidl/rosidl_typesupport_introspection_cpp/include/rosidl_typesupport_introspection_cpp/visibility_control.h

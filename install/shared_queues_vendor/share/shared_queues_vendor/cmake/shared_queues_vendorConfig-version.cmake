@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/shared_queues_vendor/ament_cmake_core/shared_queues_vendorConfig-version.cmake

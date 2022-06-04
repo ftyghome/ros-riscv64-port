@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros2/rosidl_typesupport_fastrtps/rosidl_typesupport_fastrtps_c/resource/srv__rosidl_typesupport_fastrtps_c.h.em

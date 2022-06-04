@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros2/rosidl_typesupport/rosidl_typesupport_c/resource/action__type_support.c.em

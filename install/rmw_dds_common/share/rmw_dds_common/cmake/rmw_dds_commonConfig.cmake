@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rmw_dds_common/ament_cmake_core/rmw_dds_commonConfig.cmake

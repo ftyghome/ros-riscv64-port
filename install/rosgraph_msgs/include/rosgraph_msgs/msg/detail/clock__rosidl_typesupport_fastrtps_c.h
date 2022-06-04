@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rosgraph_msgs/rosidl_typesupport_fastrtps_c/rosgraph_msgs/msg/detail/clock__rosidl_typesupport_fastrtps_c.h

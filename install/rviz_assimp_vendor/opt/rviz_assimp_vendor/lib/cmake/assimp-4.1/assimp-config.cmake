@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/rviz_assimp_vendor/assimp_install/lib/cmake/assimp-4.1/assimp-config.cmake

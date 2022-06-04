@@ -1,0 +1,1 @@
+/root/ros2_foxy/build/std_msgs/rosidl_typesupport_introspection_c/std_msgs/msg/detail/float32__rosidl_typesupport_introspection_c.h

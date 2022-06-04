@@ -1,0 +1,1 @@
+/root/ros2_foxy/src/ros2/yaml_cpp_vendor/env_hook/yaml_cpp_vendor_library_path.sh
